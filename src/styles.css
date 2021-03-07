@@ -1,0 +1,56 @@
+#buttons {
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-background-color: white;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+    -fx-border-color: #000000;
+}
+#buttons:hover {
+-fx-background-color: #ffffff;
+}
+
+
+.buttonsGanadores {
+    -fx-text-fill: black;
+    -fx-background-color: #ffffff;
+    -fx-font-size: 30pt;
+}
+
+#panelBotones {
+    -fx-background-color: #b9b2b2;
+}
+
+.buttonEnJuego {
+    -fx-font-size: 20pt;
+}
+.buttonEnJuego:hover {
+    -fx-background-color: #b9b2b2;
+}
+
+#botonInicio {
+    -fx-border-color: #ffffff;
+}
+
+
+#labelJugador {
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+    -fx-font-family: "Droid Sans Bold";
+    -fx-font-size: 10pt;
+}
+
+Pane {
+    -fx-background-color: white;
+}
+
+#tituloJuego {
+    -fx-text-fill: #ffffff;
+        -fx-font-weight: bold;
+        -fx-font-family: "Ubuntu Thin";
+        -fx-font-size: 20pt;
+}
+
+AnchorPane {
+    -fx-background-color: #ffffff;
+}
